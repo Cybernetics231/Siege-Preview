@@ -73,6 +73,20 @@ The **Entry point** and **Rally point** buttons at the bottom of the panel set w
 
 ---
 
+## Where it came from
+
+I first made Siege in 2012, when I was about ten years old, in PowerPoint. It had the same lore, and it played the same way.
+
+![The original Siege, made in PowerPoint in 2012: a green grid board with city icons and photos for the units, among them artillery, a sniper and gas-masked soldiers](screenshots/origin-2012.png)
+
+Then life got busy. At 24 I picked it up again and built a 2D version, *SIEGE: Fall of the States*: that PowerPoint, automated, as a turn-based game in HTML.
+
+![SIEGE: Fall of the States, the 2D turn-based version: NWR and Order units facing each other on the home board, with the battle log on the left](screenshots/origin-2d.jpg)
+
+Then I started experimenting with real map data, and that became this game: the same war, fought in real time on real places. This preview is that game, while I iron out the full release.
+
+---
+
 ## What 1.0 will be
 
 The demo is one skirmish from a much bigger game: six armies, more than a hundred real battlefields, and a war that runs from 2031 to 2056. These screenshots are from the full game as it stands today. It is still in development, so details will change.
