@@ -256,7 +256,7 @@ select optgroup { background: #031118; color: var(--dim); font-style: normal; }
 #armory header .seg { flex: 1; min-width: 300px; }
 #armory header .seg button { font-size: 11px; }
 .arCols { flex: 1; min-height: 0; display: grid; grid-template-columns: 300px 1fr; gap: 14px; }
-.arCols .col { min-height: 0; overflow: auto; padding: 12px; }
+.arCols .col { min-height: 0; overflow: hidden auto; padding: 12px; }   /* the corner brackets stand 1 px out: no sideways scroll */
 .arItem { display: flex; align-items: center; gap: 8px; width: 100%; text-align: left; margin-bottom: 4px; padding: 4px 6px; text-transform: none; letter-spacing: 0; }
 .arItem .portrait { width: 38px; height: 38px; }
 .arItem b { flex: 1; font-weight: 400; font-size: 12px; } .arItem span { color: var(--dim); font-size: 11px; }

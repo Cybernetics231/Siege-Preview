@@ -33,6 +33,8 @@ Everything runs from the files on disk, offline. You need a desktop or laptop wi
 
 **Four difficulties:** Easy, Normal, Hard and Insane.
 
+**The Armory.** Both armies' full rosters: every unit's cost, strength, speed, reach and special rules, each phase of the war they unlock, their abilities, and the lore behind them.
+
 **The full sound:** every weapon, vehicle and voice effect, and seven soundtracks.
 
 ![The skirmish set-up: the Order chosen, the NWR as the AI opponent on Hard, and the holographic map of Neuschwanstein](screenshots/setup.jpg)
@@ -41,7 +43,9 @@ Everything runs from the files on disk, offline. You need a desktop or laptop wi
 
 ![Old Faithful's basin with the satellite photo on: NWR Abrams tanks trading fire with the Order's Vanguard tanks across the geyser cone](screenshots/battle-yellowstone.jpg)
 
-![The main menu over the holographic map of Yellowstone](screenshots/menu.jpg)
+![The Armory: the Order's Night Fall Carrier, its stats, special rules and lore, beside the Order's roster by phase](screenshots/armory.jpg)
+
+![The main menu, Skirmish and Armory, over the holographic map of Yellowstone](screenshots/menu.jpg)
 
 ---
 
