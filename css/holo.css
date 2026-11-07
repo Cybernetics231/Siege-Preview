@@ -256,6 +256,13 @@ h1 span, .title span { color: var(--accent); }
 .facInfo .name, #previewInfo .name { font-size: 18px; letter-spacing: 3px; text-transform: uppercase; color: var(--accent); }
 .mapPick { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; color: var(--dim); text-transform: uppercase; letter-spacing: 2px; font-size: 11px; }
 .mapPick select { flex: 1; min-width: 0; padding: 7px 10px; font-size: 13px; color: var(--accent); }
+/* a faction's specialization (a mod's: Siege Darkness): under its faction in the skirmish set-up, beside the tabs in the Armory */
+.subPick { display: flex; align-items: center; gap: 8px; margin: 6px 0; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--dim); }
+.subPick select { flex: 1; min-width: 0; padding: 5px 8px; font-size: 12px; letter-spacing: 0; text-transform: none; color: var(--accent); }
+.subPick select:disabled { opacity: .45; }
+header .subPick { margin: 0 0 0 10px; min-width: 260px; }
+#sbx .subPick { margin: 4px 0 6px; }
+#sbx .sbxAbility.sub { margin-left: 12px; }   /* a specialization's ability, under its army's */
 select optgroup { background: var(--menu-bg); color: var(--dim); font-style: normal; }
 .modeCard { margin-top: 6px; }
 .modeCard img { width: 100%; max-height: 120px; object-fit: cover; border: 1px solid var(--line); filter: saturate(.7) brightness(.8); }
@@ -285,6 +292,7 @@ select optgroup { background: var(--menu-bg); color: var(--dim); font-style: nor
 .portrait.big { width: 220px; height: 220px; }
 #arDetail h3 { color: var(--accent); letter-spacing: 3px; text-transform: uppercase; margin: 14px 0 6px; font-size: 13px; }
 .arAbility, .arPhase { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.arLore p { margin: 0 0 8px; }   /* a unit's Armory paragraphs */
 .arAbility img { width: 180px; border: 1px solid var(--line); } .arPhase img { width: 120px; border: 1px solid var(--line); }
 .statGrid { display: grid; grid-template-columns: repeat(4, minmax(90px, 1fr)); gap: 6px; margin: 8px 0; }
 .statGrid div { border: 1px solid rgba(var(--accent-rgb),.15); padding: 4px 6px; }

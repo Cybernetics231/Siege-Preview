@@ -2,7 +2,7 @@
 
 **A free tech demo of Siege, a real-time strategy game fought on real places and drawn as a holographic command table. Two armies, three famous battlefields, one skirmish against the AI. It runs in your browser: no install, no account, no internet needed.**
 
-![Order Helios-X strike fighters over Neuschwanstein castle, shooting down NWR troops and an F40 fighter on the slopes below, with the kill reports in the battle log](screenshots/battle-neuschwanstein.jpg)
+![Order Helios-X strike fighters and NWR F40 fighters trading kills over the wooded slopes below Neuschwanstein castle, with the kill reports in the battle log](screenshots/battle-neuschwanstein.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ Everything runs from the files on disk, offline. You need a desktop or laptop wi
 - **The NWR:** what is left of the United States, Britain and Russia. Conscripts, Marines and Royal Commandos, Javelin and Stinger teams, scavenged Abrams, Challengers and T-90s, the F40 fighter, the MLRS and Colonel Beltopsky. Its ability is the Supersonic Bomber Strike.
 - **The Order:** conditioned soldiers who mean to bury the world under an engineered ice age. Obsidian Line Troopers, Eclipse Operatives, Vanguard and Bulwark tanks, Wasp-Pattern drone swarms, Helios-X fighters and the Night Fall Carrier. Its ability is the Eclipse Protocol, which turns your own soldiers against you.
 
-**Three battlefields, built from the real ground.** Every building, road, wood, river and hill comes from OpenStreetMap, elevation data and satellite imagery. Press **V** in battle to see the satellite photo underneath.
+**Three battlefields, built from the real ground.** Every building, road, river and hill comes from OpenStreetMap and open elevation data. The woods, fields and open ground come from two open maps: Meta and the World Resources Institute's tree canopy heights, and ESA's WorldCover land cover.
 - **Pisa · Piazza dei Miracoli.** The Leaning Tower, the cathedral and the baptistery on their open lawn, inside the medieval wall. Around them the old town fights house to house.
 - **Neuschwanstein · The castle.** The castle on its crag above the Pöllat gorge, with Hohenschwangau village below and open meadows to the north. Steep forest covers the south.
 - **Yellowstone · Old Faithful.** Bare, steaming ground along the Firehole River, the old inn and lodges, wide car parks, and pine forest all round.
@@ -41,11 +41,11 @@ Everything runs from the files on disk, offline. You need a desktop or laptop wi
 
 ![NWR Abrams tanks and infantry pushing north through Pisa's streets toward the Order's troops and tanks around the cathedral, with the Abrams' unit card open](screenshots/battle-pisa.jpg)
 
-![Old Faithful's basin with the satellite photo on: NWR Abrams tanks trading fire with the Order's Vanguard tanks across the geyser cone](screenshots/battle-yellowstone.jpg)
+![Old Faithful's basin: NWR Abrams tanks trading fire with the Order's Vanguard tanks across the geyser cone](screenshots/battle-yellowstone.jpg)
 
 ![The Armory: the Order's Night Fall Carrier, its stats, special rules and lore, beside the Order's roster by phase](screenshots/armory.jpg)
 
-![The main menu, Skirmish and Armory, over the holographic map of Yellowstone](screenshots/menu.jpg)
+![The main menu, Skirmish and Armory, over the holographic map of Pisa](screenshots/menu.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ Everything runs from the files on disk, offline. You need a desktop or laptop wi
 | C / X | Take cover / stop |
 | Ctrl+A | Select everything |
 | WASD, mouse wheel | Pan, zoom |
-| T / V / F | Terrain overlays / satellite photo / fog of war |
+| T / F | Terrain overlays / fog of war |
 | Space / Esc | Pause / menu |
 
 The **Entry point** and **Rally point** buttons at the bottom of the panel set where your units arrive and gather.
@@ -128,7 +128,8 @@ The Homel region, 2055. Play the NWR or the Order and take the region district b
 
 ## Credits
 
-Imagery © Esri, Maxar · Elevation © Mapzen/AWS Terrain Tiles · Map data © OpenStreetMap contributors (ODbL).
+Map data © OpenStreetMap contributors (ODbL) · Elevation © Mapzen/AWS Terrain Tiles.
+Woods and fields: canopy height © Meta and World Resources Institute (CC BY 4.0) · land cover © ESA WorldCover project 2021, containing modified Copernicus Sentinel data (2021) processed by the ESA WorldCover consortium (CC BY 4.0).
 Interface font: Share Tech Mono, under the SIL Open Font License (`css/fonts/OFL.txt`).
 
 The demo is free to download and play. All rights reserved: please don't redistribute modified copies.
