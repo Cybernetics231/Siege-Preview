@@ -35,7 +35,9 @@ Everything runs from the files on disk, offline. You need a desktop or laptop wi
 
 **The Armory.** Both armies' full rosters: every unit's cost, strength, speed, reach and special rules, each phase of the war they unlock, their abilities, and the lore behind them.
 
-**The full sound:** every weapon, vehicle and voice effect, and seven soundtracks.
+**Units that talk back.** Every unit of both armies has its own voice over the radio: it answers when you select it and when you send it somewhere, and its crew shout as they go in. Each army's net reports its losses.
+
+**The full sound:** every weapon, vehicle and voice effect, the jets' sonic boom, distant fighting and shouting across the battlefield, and seven soundtracks.
 
 ![The skirmish set-up: the Order chosen, the NWR as the AI opponent on Hard, and the holographic map of Neuschwanstein](screenshots/setup.jpg)
 
